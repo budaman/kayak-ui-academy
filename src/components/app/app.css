@@ -1,0 +1,12 @@
+@import "./kayak-bootstrap/variables/all";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
