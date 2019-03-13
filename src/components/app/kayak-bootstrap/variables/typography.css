@@ -3,12 +3,12 @@ $font-family__headings: 'Avenir', Helvetica, Arial, sans-serif;
 $font-family__icons:    'Font Awesome 5 Free' !default;
 
 $font-size__body: 1rem;
-$font-size__h1:   2.4rem;
-$font-size__h2:   2rem;
-$font-size__h3:   1.8rem;
-$font-size__h4:   1.6rem;
-$font-size__h5:   1.4rem;
-$font-size__h6:   1.3rem;
+$font-size__h1:   2rem;
+$font-size__h2:   1.8rem;
+$font-size__h3:   1.6rem;
+$font-size__h4:   1.4rem;
+$font-size__h5:   1.2rem;
+$font-size__h6:   1rem;
 
 $font-size__small: 1.2rem;
 

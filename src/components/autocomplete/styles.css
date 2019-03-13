@@ -1,0 +1,29 @@
+@import "../app/kayak-bootstrap/variables/all";
+
+.container {
+  display: block;
+}
+
+.autocompleteCard {
+  display: flex;
+  box-shadow: $box-shadow-container;
+  &:hover {
+    background-color:#F6AE2D;
+  }
+}
+
+.poster {
+  height: 80px;
+  width: 80px;
+}
+
+.genres {
+  font-size: 10px;
+  display: flex;
+  font-weight: bold;
+  margin-right: 3px;
+}
+
+.genre {
+  margin-right: 5px;
+}
